@@ -9,5 +9,17 @@ body {
 
 /* Here is one of many  CSS rules you will need... */
 #one {
-    
+    border: 0.5em solid orange
+}
+
+#two {
+    border: 0.5em solid green
+}
+
+#three {
+    border: 0.5em solid yellow
+}
+
+#four {
+    border: 0.5em solid blue
 }
