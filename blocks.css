@@ -11,7 +11,9 @@ body {
 
 #one {
     font-family: "Times New Roman";
-    border: 5px solid orange
+    border-style: solid; 
+    border-color: orange; 
+    border-width: 5px;
 }
     
 /* } */
