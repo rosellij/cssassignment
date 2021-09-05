@@ -10,7 +10,7 @@
 /* Here is one of many  CSS rules you will need... */
 
 div {
-    width: 175px;
+    width: 50%;
     border: 5px solid;
     position:fixed; 
 }
