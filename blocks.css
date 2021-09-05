@@ -10,7 +10,7 @@
 /* Here is one of many  CSS rules you will need... */
 
 div {
-    width: 50%;
+    width: 25%;
     border: 5px solid;
     position:fixed; 
 }
@@ -38,8 +38,9 @@ div {
 a {
     position: absolute;
     right: 50%;
-    background-color: blue;
-    border: 1px solid blue;
+    background-color: #323792;
+    border: 1px solid #323792;
     color: white;
     text-decoration: none;
+    font-weight: bold;
 }
