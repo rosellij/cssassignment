@@ -9,6 +9,8 @@ body {
 
 /* Here is one of many  CSS rules you will need... */
 
-/* #one { */
+#one {
+    font-family: "Times New Roman"
+}
     
 /* } */
